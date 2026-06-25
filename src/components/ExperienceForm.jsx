@@ -123,7 +123,7 @@ const ExperienceForm = ({ data, onChange }) => {
 
                                     )}
                                     {generatingIndex ? 
-                                    "Enhancing...":"Enhance with AI"}
+                                        "Enhance with AI" :"Enhancing..."}
                                         
 
                                     </button>
